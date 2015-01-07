@@ -1,3 +1,6 @@
+---
+title: ARTH101 Unit 6
+---
 -   **Unit 6: Architecture**  
 
     *This unit explores architecture, its history, and its relation to
