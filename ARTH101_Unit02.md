@@ -1,3 +1,6 @@
+---
+title: ARTH101 Unit 2
+---
 -   **Unit 2: Process and Training**  
 
     *This unit explores the artistic process and the art industry:
