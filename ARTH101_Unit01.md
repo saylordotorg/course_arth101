@@ -1,3 +1,6 @@
+---
+title: ARTH101 Unit 1
+---
 -   **Unit 1: Definitions, Artistic Roles, and Visual Thinking**  
 
     *How would you define art? For many people, art is a tangible
