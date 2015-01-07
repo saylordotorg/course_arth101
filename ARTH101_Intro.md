@@ -1,3 +1,6 @@
+---
+title: ARTH101 Intro
+---
 Course Syllabus for "ARTH101: Art Appreciation and Techniques"
 --------------------------------------------------------------
 
