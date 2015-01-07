@@ -1,3 +1,6 @@
+---
+title: ARTH101 Unit 8
+---
 -   **Unit 8: Other Worlds - Mortality, the Spirit, and Fantasy**  
 
     *Humans use art to capture ideas about worlds outside our own. Art
