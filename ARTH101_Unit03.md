@@ -1,3 +1,6 @@
+---
+title: ARTH101 Unit 3
+---
 -   **Unit 3: How Art Speaks - Finding Meaning**  
 
     *Art, by its nature, asks questions and holds meaning. It explains
