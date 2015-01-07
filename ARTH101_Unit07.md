@@ -1,3 +1,6 @@
+---
+title: ARTH101 Unit 7
+---
 -   **Unit 7: Our World - Nature, the Body, Identity, Sexuality,
     Politics, and Power**  
 
