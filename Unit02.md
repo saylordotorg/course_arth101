@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "ARTH101 - Art Appreciation and Techniques"
-course: ARTH101
-course_fulltitle: "Art Appreciation and Techniques"
+title: "ARTH101: Art Appreciation and Techniques"
 course_description: "An exploration of visual art forms and their cultural connections, including a brief study of art history, and in-depth studies of the elements, media, and methods used in creative thought and processes."
 bgimage: arth101.jpg
+next: ../Unit03
+previous: ../Unit02
 ---
 -   **Unit 2: Process and Training**  
 
