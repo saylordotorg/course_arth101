@@ -4,6 +4,7 @@ title: "ARTH101 - Art Appreciation and Techniques"
 course: ARTH101
 course_fulltitle: "Art Appreciation and Techniques"
 course_description: "An exploration of visual art forms and their cultural connections, including a brief study of art history, and in-depth studies of the elements, media, and methods used in creative thought and processes."
+bgimage: arth101.jpg
 ---
 -   **Unit 4: How Art Works - The Elements and Principles of Visual
     Language**  
