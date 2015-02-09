@@ -1,3 +1,11 @@
+---
+layout: default
+title: "ARTH101: Art Appreciation and Techniques"
+course_description: "An exploration of visual art forms and their cultural connections, including a brief study of art history, and in-depth studies of the elements, media, and methods used in creative thought and processes."
+bgimage: arth101.jpg
+next: ../Unit09
+previous: ../Unit07
+---
 -   **Unit 8: Other Worlds - Mortality, the Spirit, and Fantasy**  
 
     *Humans use art to capture ideas about worlds outside our own. Art

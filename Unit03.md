@@ -1,3 +1,11 @@
+---
+layout: default
+title: "ARTH101: Art Appreciation and Techniques"
+course_description: "An exploration of visual art forms and their cultural connections, including a brief study of art history, and in-depth studies of the elements, media, and methods used in creative thought and processes."
+bgimage: arth101.jpg
+next: ../Unit04
+previous: ../Unit02
+---
 -   **Unit 3: How Art Speaks - Finding Meaning**  
 
     *Art, by its nature, asks questions and holds meaning. It explains

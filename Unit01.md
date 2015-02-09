@@ -1,3 +1,11 @@
+---
+layout: default
+title: "ARTH101: Art Appreciation and Techniques"
+course_description: "An exploration of visual art forms and their cultural connections, including a brief study of art history, and in-depth studies of the elements, media, and methods used in creative thought and processes."
+bgimage: arth101.jpg
+next: ../Unit02
+previous: ../Intro
+---
 -   **Unit 1: Definitions, Artistic Roles, and Visual Thinking**  
 
     *How would you define art? For many people, art is a tangible
