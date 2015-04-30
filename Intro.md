@@ -137,7 +137,10 @@ yourself. For example, Unit 1 should take you 7.75 hours.
 through the resources. Re-watching these notes will be a good way to
 prepare for the Final Exam.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 **Test Heading**
 >>>>>>> 577432bde7773390527d4b8f41bad1f8bdd6ab04
+=======
+>>>>>>> 3d62b4a3e4361d16c138c0bb6033a2a8f3618512
