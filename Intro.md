@@ -128,5 +128,3 @@ yourself. For example, Unit 1 should take you 7.75 hours.
  **Tips/Suggestions:** It is recommended that you take notes as you work
 through the resources. Re-watching these notes will be a good way to
 prepare for the Final Exam.
-
-**Test Heading**
