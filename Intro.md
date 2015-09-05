@@ -1,16 +1,6 @@
 Course Syllabus for "ARTH101: Art Appreciation and Techniques"
 --------------------------------------------------------------
 
-**Please note: this [legacy course](https://sayloracademy.zendesk.com/
-hc/en-us/articles/206089967) does not offer a certificate and may contain 
-broken links and outdated information.** Although archived, it is open 
-for learning without registration or enrollment. Please consider contributing 
-updates to [this course on GitHub](https://github.com/saylordotorg/course_arth101) 
-(you can also adopt, adapt, and distribute this course under the terms of 
-the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
-licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
-Learn site](https://learn.saylor.org).**
-
 This course is an exploration of visual art forms and their cultural
 connections for the student with little experience in the visual arts.
 It includes a brief study of art history, and in-depth studies of the
